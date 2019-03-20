@@ -311,6 +311,10 @@ class: inverse, center, middle
 
 <a href="mailto:conectar@ucr.ac.cr"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; ConectaR - UCR </a><br>
 
+Esta presentación:
+
+https://malfaro2.github.io/ConectaR/informe_EdE.html
+
 ---
 
 class: center, middle
